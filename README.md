@@ -1,2 +1,3 @@
-# show_praise_how_to_git
-show_praise_how_to_git
+# SEAN SHOWING PRAISE HOW TO GIT
+
+1. I am showing Praise Waheed how to use git and github.
